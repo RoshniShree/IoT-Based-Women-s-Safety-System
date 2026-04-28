@@ -29,7 +29,8 @@ IoT-Based Women’s Safety System using ESP32 that detects emergencies via butto
 6. If push button is pressed mistakenly , the false alert button(push button 2) should be pressed, then the system sends a message stating “Sorry, sent by mistake” to both contacts and authorities to avoid unnecessary panic.
 
 ## Output
-<img width="522" height="1000" alt="image" src="https://github.com/user-attachments/assets/ddc8fd9f-74fe-44b3-9bc6-e4446f6b1aa2" />
+<img width="457" height="731" alt="image" src="https://github.com/user-attachments/assets/fef0db57-8388-4011-983e-98bcc9709fd4" />
+
 
 
 
