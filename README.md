@@ -22,7 +22,7 @@ IoT-Based Women’s Safety System using ESP32 that detects emergencies via butto
 
 
 ## How It Works
-1. The project is programmed in C++ and executed using the Arduino IDE (version 1.8.16).
+1. The project is programmed in C++ and executed using the Arduino IDE (version 1.8.16) and code is uploded to ESP32.
 2.  When the alert button(push button 1) is pressed,the system sends an emergency SMS to pre-registered contacts and nearby authorities using GSM. The message includes a distress alert (“Help, I am in danger”) along with a live location link generated using GPS.
 3. After sending the SMS, the LCD displays “Message Sent” to confirm successful delivery.
 4. The GSM module automatically initiates a phone call to emergency contacts and police authorities to ensure immediate response even if the SMS is missed.
