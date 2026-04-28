@@ -20,6 +20,7 @@ IoT-Based Women’s Safety System using ESP32 that detects emergencies via butto
 ## Circuit Diagram
 <img width="1586" height="992" alt="gitimg" src="https://github.com/user-attachments/assets/8bdb5372-1d31-4873-bf40-5d1ecb29b063" />
 
+
 ## How It Works
 1. The project is programmed in C++ and executed using the Arduino IDE (version 1.8.16).
 2.  When the alert button(push button 1) is pressed,the system sends an emergency SMS to pre-registered contacts and nearby authorities using GSM. The message includes a distress alert (“Help, I am in danger”) along with a live location link generated using GPS.
@@ -30,45 +31,8 @@ IoT-Based Women’s Safety System using ESP32 that detects emergencies via butto
 
 ## Output
 <img width="457" height="731" alt="image" src="https://github.com/user-attachments/assets/fef0db57-8388-4011-983e-98bcc9709fd4" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img width="539" height="656" alt="image" src="https://github.com/user-attachments/assets/096c1354-430b-4b6c-a581-ee534551bcce" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img width="575" height="407" alt="image" src="https://github.com/user-attachments/assets/eeade11b-7658-4c6e-9c0b-d456df0ecdf0" />
+<img width="467" height="714" alt="image" src="https://github.com/user-attachments/assets/ec36b777-a403-4d76-b625-b6b9f70f741f" />
+<img width="543" height="422" alt="image" src="https://github.com/user-attachments/assets/778802c7-6d27-4182-9fe3-627a554a9294" />
 
 ## Future Improvements
 - Mobile app integration
