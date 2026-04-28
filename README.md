@@ -35,7 +35,11 @@ IoT-Based Women’s Safety System using ESP32 that detects emergencies via butto
 
 
 
+
+
 <img width="539" height="856" alt="image" src="https://github.com/user-attachments/assets/096c1354-430b-4b6c-a581-ee534551bcce" />
+
+
 
 
 
