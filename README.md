@@ -1,4 +1,4 @@
-# IoT-Based-Women-s-Safety-System
+# IoT-Based-Women-Safety-System
 
 ## Description
 IoT-Based Women’s Safety System using ESP32 that detects emergencies via button and sends real-time GPS location alerts through GSM, initiates SOS calls, and captures images using ESP32-CAM for enhanced personal safety.
